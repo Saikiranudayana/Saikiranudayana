@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Saikiranudayana
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Fundamentals of machine learning and Dsa(python)
+👋 Hello, I'm Sai Kiran Udayana
 
-
-<!---
-Saikiranudayana/Saikiranudayana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎯 Aspiring Machine Learning Engineer  
+- 👀 Interested in Machine Learning and AI  
+- 🌱 Currently learning Machine Learning Fundamentals  
+- 🧠 Practicing Data Structures and Algorithms in Python  
+- 💼 Exploring real-world applications of ML  
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/saikiranudayana)  
+- 💻 Check out my projects on [GitHub](https://github.com/Saikiranudayana)
