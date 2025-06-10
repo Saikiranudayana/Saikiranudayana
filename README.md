@@ -2,7 +2,7 @@
 
 **Aspiring Data Scientist | Machine Learning Enthusiast | Data Analytics Student**
 
-🎓 **Computer Science Engineering Student** at Dr.M.G.R. Educational and Research Institute (CGPA: 8.71/10.0)  
+
 📧 **Contact:** saikiranudayana@gmail.com | 📱 +91 8790205644  
 🌐 **Portfolio:** [codolio.com/profile/udayana_sai](https://codolio.com/profile/udayana_sai)
 
