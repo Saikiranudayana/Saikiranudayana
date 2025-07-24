@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Udayana Sai Kiran
+# Hi there! 👋 I'm  Sai Kiran Udayana
 
 **Amateur AI Student | Data Science & Analytics Enthusiast**
 
