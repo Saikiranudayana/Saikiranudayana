@@ -1,8 +1,20 @@
 # Hi there! 👋 I'm  Sai Kiran Udayana
 
-**Amateur AI Student | Data Science & Analytics Enthusiast**
+**Associate Data Analytics at PW Skills**
 
-Aspiring to grow in the fields of data science and artificial intelligence, I’m currently building hands-on skills through real-world projects and continuous learning.
+Hello! 👋 I’m 𝐒𝐚𝐢 𝐊𝐢𝐫𝐚𝐧 𝐔𝐝𝐚𝐲𝐚𝐧𝐚, an 𝐀𝐈 𝐚𝐧𝐝 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐞𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭 driven by a deep curiosity for how intelligent systems learn, adapt, and solve real-world problems. I’m passionate about transforming data into meaningful insights and building machine learning models that not only perform well but also make a real impact in people’s lives.
+
+Currently, I’m working as an 𝐀𝐜𝐚𝐝𝐞𝐦𝐢𝐜 𝐀𝐬𝐬𝐨𝐜𝐢𝐚𝐭𝐞 – 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 at 𝐏𝐖 𝐒𝐤𝐢𝐥𝐥𝐬, where I help bridge the gap between complex data concepts and practical understanding for students. In this role, I conduct interactive doubt-solving sessions for learners enrolled in various Data Analytics batches, guiding them through topics such as data visualization, statistical analysis, and applied machine learning techniques. I also play an active role in academic counselling and career guidance, assisting learners in mapping their career paths and strengthening their technical foundation.
+
+Beyond classroom engagement, I’m also contributing toward community building at PW Skills. I aim to make the PW learning ecosystem more connected, collaborative, and student-focused by organizing community-driven events, knowledge sessions, and interactive workshops. With my background in event hosting, mentoring, and student engagement, I’m dedicated to making learning an exciting, collaborative experience for everyone.
+
+Academic and Technical Foundation
+
+I hold a Bachelor of Technology in Computer Science and Engineering from 𝐃𝐫. 𝐌.𝐆.𝐑 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐚𝐧𝐝 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐈𝐧𝐬𝐭𝐢𝐭𝐮𝐭𝐞 (𝟐𝟎𝟐𝟏–𝟐𝟎𝟐𝟓),where I built a strong foundation in computer science fundamentals, algorithms, and applied mathematics. My academic journey was not just about coursework—it was a period of deep exploration into emerging technologies like machine learning, data analytics, and artificial intelligence.
+
+I’ve always believed that learning should be practical and purpose-driven. That belief shaped my journey into working on hands-on projects and research-based initiatives that blend creativity, analytics, and problem-solving.
+
+**𝐀𝐈, 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞, 𝐚𝐧𝐝 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬**
 
 📧 **Contact:** saikiranudayana@gmail.com | 📱 +91 8790205644
 
