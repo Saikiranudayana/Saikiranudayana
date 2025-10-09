@@ -52,5 +52,11 @@ Aspiring to grow in the fields of data science and artificial intelligence, I’
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikiranudayana@gmail.com)
 
 ---
+# Honor's Rewards
+![LeetCode 50 Days Badge 2025](https://assets.leetcode.com/static_assets/marketing/2024-50.gif)
+
+![LeetCode 100 Days Badge 2025](https://assets.leetcode.com/static_assets/others/25100.gif)
+
+
 
 ⭐ *"Learning to transform data into meaningful insights."* ⭐
