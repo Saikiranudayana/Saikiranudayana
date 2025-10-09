@@ -48,7 +48,8 @@ Aspiring to grow in the fields of data science and artificial intelligence, I’
 ## 🌟 Honor’s Board
 ![LeetCode 100 Days Badge 2025](https://assets.leetcode.com/static_assets/others/25100.gif)
 
-![LeetCode 50 Days Badge 2025](https://assets.leetcode.com/static_assets/marketing/2024-50.gif)
+![LeetCode 50 Days Badge 2025](https://assets.leetcode.com/static_assets/others/2550.gif)
+
 
 
 
