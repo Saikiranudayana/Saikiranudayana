@@ -45,6 +45,16 @@ Aspiring to grow in the fields of data science and artificial intelligence, I’
 
 ---
 
+## 🌟 Honor’s Board
+![LeetCode 100 Days Badge 2025](https://assets.leetcode.com/static_assets/others/25100.gif)
+
+![LeetCode 50 Days Badge 2025](https://assets.leetcode.com/static_assets/marketing/2024-50.gif)
+
+
+
+
+---
+
 ## 🤝 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Saikiranudayana)
@@ -52,10 +62,6 @@ Aspiring to grow in the fields of data science and artificial intelligence, I’
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikiranudayana@gmail.com)
 
 ---
-# Honor's Rewards
-![LeetCode 50 Days Badge 2025](https://assets.leetcode.com/static_assets/marketing/2024-50.gif)
-
-![LeetCode 100 Days Badge 2025](https://assets.leetcode.com/static_assets/others/25100.gif)
 
 
 
