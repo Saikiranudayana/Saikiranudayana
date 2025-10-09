@@ -49,17 +49,34 @@ Currently, I’m working as an 𝐀𝐜𝐚𝐝𝐞𝐦𝐢𝐜 𝐀𝐬𝐬𝐨
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saikiranudayana&layout=compact&theme=tokyonight)
 
 ---
-
 ## 🌟 Honor’s Board
-![LeetCode 100 Days Badge 2025](https://assets.leetcode.com/static_assets/others/25100.gif)
 
-![LeetCode 50 Days Badge 2025](https://assets.leetcode.com/static_assets/others/2550.gif)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode 100 Days Badge 2025" width="200" />
+      <br>100 Days Badge 
+    </td>
+    <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode 50 Days Badge 2025" width="200" />
+      <br>50 Days Badge 
+    </td>
+    <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/marketing/202505.gif" alt="LeetCode May Daily Challenge GIF" width="200" />
+      <br> May Daily Challenge 
+    </td>
+  </tr>
+</table>
 
 
 
+## 🔥 GitHub Streak  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Saikiranudayana&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak for Saikiranudayana" />
+</p>
 
 
----
 
 ## 🤝 Let's Connect!
 
@@ -67,7 +84,7 @@ Currently, I’m working as an 𝐀𝐜𝐚𝐝𝐞𝐦𝐢𝐜 𝐀𝐬𝐬𝐨
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saikiranudayana)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikiranudayana@gmail.com)
 
----
+
 
 
 
