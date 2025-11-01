@@ -5,7 +5,6 @@
 Hello! 👋 I’m 𝐒𝐚𝐢 𝐊𝐢𝐫𝐚𝐧 𝐔𝐝𝐚𝐲𝐚𝐧𝐚, an 𝐀𝐈 𝐚𝐧𝐝 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐞𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭 driven by a deep curiosity for how intelligent systems learn, adapt, and solve real-world problems. I’m passionate about transforming data into meaningful insights and building machine learning models that not only perform well but also make a real impact in people’s lives.
 
 
-
 Currently, I’m working as an 𝐀𝐜𝐚𝐝𝐞𝐦𝐢𝐜 𝐀𝐬𝐬𝐨𝐜𝐢𝐚𝐭𝐞 – 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 at 𝐏𝐖 𝐒𝐤𝐢𝐥𝐥𝐬, where I help bridge the gap between complex data concepts and practical understanding for students. In this role, I conduct interactive doubt-solving sessions for learners enrolled in various Data Analytics batches, guiding them through topics such as data visualization, statistical analysis, and applied machine learning techniques. I also play an active role in academic counselling and career guidance, assisting learners in mapping their career paths and strengthening their technical foundation.
 
 
