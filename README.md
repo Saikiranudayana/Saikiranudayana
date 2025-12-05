@@ -11,7 +11,6 @@ Currently, I’m working as an 𝐀𝐜𝐚𝐝𝐞𝐦𝐢𝐜 𝐀𝐬𝐬𝐨
 
 📧 **Contact:** saikiranudayana@gmail.com | 📱 +91 8790205644
 
----
 
 ## 🛠️ Tech Stack
 
@@ -41,14 +40,6 @@ Currently, I’m working as an 𝐀𝐜𝐚𝐝𝐞𝐦𝐢𝐜 𝐀𝐬𝐬𝐨
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saikiranudayana&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saikiranudayana&layout=compact&theme=tokyonight)
-
----
 ## 🌟 Honor’s Board
 
 <table>
