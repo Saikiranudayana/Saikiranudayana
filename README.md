@@ -61,8 +61,8 @@ Currently, I’m working as an 𝐀𝐜𝐚𝐝𝐞𝐦𝐢𝐜 𝐀𝐬𝐬𝐨
 
 ## 📊 GitHub Stats & Top Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saikiranudayana&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikiranudayana&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Saikiranudayana&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikiranudayana&layout=compact&theme=github_dark"/>
 </p>
 
 ## 🤝 Let's Connect!
