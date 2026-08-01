@@ -72,7 +72,9 @@ Currently, I’m working as an 𝐀𝐜𝐚𝐝𝐞𝐦𝐢𝐜 𝐀𝐬𝐬𝐨
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikiranudayana@gmail.com)
 
 
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Saikiranudayana&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
+</p>
 
 
 ⭐ *"Learning to transform data into meaningful insights."* ⭐
