@@ -59,15 +59,13 @@ Currently, I’m working as an 𝐀𝐜𝐚𝐝𝐞𝐦𝐢𝐜 𝐀𝐬𝐬𝐨
   </tr>
 </table>
 
-## 📊 GitHub Stats & Top Languages
+## 📊 GitHub Stats 
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Saikiranudayana&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saikiranudayana&theme=tokyo-night" />
-</p>
+
 
 ## 🤝 Let's Connect!
 
