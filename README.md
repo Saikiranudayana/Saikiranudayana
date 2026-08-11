@@ -1,10 +1,13 @@
 # Hi there! 👋 I'm  Sai Kiran Udayana
+<a href="https://github.com/sponsors/Saikiranudayana">
+  <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=github-sponsors&logoColor=white" alt="Sponsor Sai Kiran">
+</a>
 
-**Associate Data Analytics at PW Skills**
+𝐀𝐈 & 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 Guy building intelligent, data-driven solutions using Machine Learning, Deep Learning, Generative AI, and Agentic AI. Currently, I work as an 𝐀𝐜𝐚𝐝𝐞𝐦𝐢𝐜 𝐒𝐤𝐢𝐥𝐥𝐬 𝐀𝐬𝐬𝐨𝐜𝐢𝐚𝐭𝐞 – 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 & 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 at 𝐏𝐖 𝐒𝐤𝐢𝐥𝐥𝐬, where I mentor learners through doubt resolution, mock interviews, assessments, project guidance, and career counselling.
 
-Hello! 👋 I’m 𝐒𝐚𝐢 𝐊𝐢𝐫𝐚𝐧 𝐔𝐝𝐚𝐲𝐚𝐧𝐚, an 𝐀𝐈 𝐚𝐧𝐝 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐞𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭 driven by a deep curiosity for how intelligent systems learn, adapt, and solve real-world problems. I’m passionate about transforming data into meaningful insights and building machine learning models that not only perform well but also make a real impact in people’s lives.
+I supported 200+ learners across 5+ batches, helping them strengthen their technical and problem-solving skills. I enjoy building practical AI solutions, including an Agentic Intelligence System using LangGraph & LLMs and an AI-powered Adverse Drug Event Detection system using BioBERT and NLP.
 
-Currently, I’m working as an 𝐀𝐜𝐚𝐝𝐞𝐦𝐢𝐜 𝐀𝐬𝐬𝐨𝐜𝐢𝐚𝐭𝐞 – 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 at 𝐏𝐖 𝐒𝐤𝐢𝐥𝐥𝐬, where I help bridge the gap between complex data concepts and practical understanding for students. In this role, I conduct interactive doubt-solving sessions for learners enrolled in various Data Analytics batches, guiding them through topics such as data visualization, statistical analysis, and applied machine learning techniques. I also play an active role in academic counselling and career guidance, assisting learners in mapping their career paths and strengthening their technical foundation.
+I’m also passionate about data competitions my Adverse Drug Event Detection project secured 2nd place, while my TN elections Analytics Dashboard secured 1st place in Codebasics RPC (resume project challenges did by code basics). I’m always looking to learn, build, share, and collaborate across AI, Data Science, and Analytics. 🚀
 
 
 **𝐀𝐈, 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞, 𝐚𝐧𝐝 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬**
